@@ -14,3 +14,5 @@ hello anyway! hello git!
 hello anyway! hello git!  add in master!
 hello anyway! hello git! in hot-fix! 
 add a new line in browser!!!
+========================
+add a new line by lhc!!!
